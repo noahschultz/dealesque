@@ -1,0 +1,8 @@
+- content_for :sidebar do
+  = render partial: "sidebar"
+
+= render partial: "search_form"
+
+%ul.thumbnails.per3
+  - @search_result.items.each do |item|
+    = render partial: "item", locals: {item: item}

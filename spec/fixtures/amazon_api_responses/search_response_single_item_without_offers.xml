@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+    <OperationRequest>
+        <HTTPHeaders>
+            <Header Name="UserAgent" Value="Jeff/0.4.3 (Language=Ruby; dojo)"/>
+        </HTTPHeaders>
+        <RequestId>bcafc6b2-ae4e-4509-8fe1-62c27c8d394c</RequestId>
+        <Arguments>
+            <Argument Name="Operation" Value="ItemSearch"/>
+            <Argument Name="Service" Value="AWSECommerceService"/>
+            <Argument Name="Signature" Value="xUH8HHyYV/Cy6K8GM08iT3NREEM8Ur/YS85aesWFfgw="/>
+            <Argument Name="AssociateTag" Value="dealesque-20"/>
+            <Argument Name="Version" Value="2011-08-01"/>
+            <Argument Name="Keywords" Value="Practical Object-Oriented Design in Ruby"/>
+            <Argument Name="SignatureMethod" Value="HmacSHA256"/>
+            <Argument Name="AWSAccessKeyId" Value="AKIAIAPIAMDJ5EGZIPJQ"/>
+            <Argument Name="Timestamp" Value="2012-12-12T18:55:20Z"/>
+            <Argument Name="ResponseGroup" Value="ItemAttributes,Offers,Images"/>
+            <Argument Name="SearchIndex" Value="All"/>
+            <Argument Name="SignatureVersion" Value="2"/>
+        </Arguments>
+        <RequestProcessingTime>0.0812830000000000</RequestProcessingTime>
+    </OperationRequest>
+    <Items>
+        <Request>
+            <IsValid>True</IsValid>
+            <ItemSearchRequest>
+                <Keywords>Practical Object-Oriented Design in Ruby</Keywords>
+                <ResponseGroup>ItemAttributes</ResponseGroup>
+                <ResponseGroup>Offers</ResponseGroup>
+                <ResponseGroup>Images</ResponseGroup>
+                <SearchIndex>All</SearchIndex>
+            </ItemSearchRequest>
+        </Request>
+        <TotalResults>1</TotalResults>
+        <TotalPages>1</TotalPages>
+        <MoreSearchResultsUrl>http://www.amazon.com/gp/redirect.html?camp=2025&amp;creative=386001&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch%3Fkeywords%3DPractical%2BObject-Oriented%2BDesign%2Bin%2BRuby%26url%3Dsearch-alias%253Daws-amazon-aps&amp;linkCode=xm2&amp;tag=dealesque-20&amp;SubscriptionId=AKIAIAPIAMDJ5EGZIPJQ</MoreSearchResultsUrl>
+        <Item>
+            <ASIN>0975841955</ASIN>
+            <DetailPageURL>http://www.amazon.com/Build-Your-Ruby-Rails-Applications/dp/0975841955%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0975841955</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Build-Your-Ruby-Rails-Applications/dp/tech-data/0975841955%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0975841955</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0975841955%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0975841955</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0975841955%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0975841955</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0975841955%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0975841955</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/0975841955%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0975841955</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/0975841955%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0975841955</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/0975841955%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0975841955</URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">57</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">121</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">377</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">23</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">83</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">121</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">377</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Author>Patrick Lenz</Author>
+                <Binding>Paperback</Binding>
+                <EAN>9780975841952</EAN>
+                <EANList>
+                    <EANListElement>9780975841952</EANListElement>
+                </EANList>
+                <Edition>1</Edition>
+                <ISBN>0975841955</ISBN>
+                <Label>SitePoint</Label>
+                <Languages>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Unknown</Type>
+                    </Language>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Original Language</Type>
+                    </Language>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Published</Type>
+                    </Language>
+                </Languages>
+                <ListPrice>
+                    <Amount>3995</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$39.95</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>SitePoint</Manufacturer>
+                <NumberOfItems>1</NumberOfItems>
+                <NumberOfPages>447</NumberOfPages>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">110</Height>
+                    <Length Units="hundredths-inches">900</Length>
+                    <Weight Units="hundredths-pounds">150</Weight>
+                    <Width Units="hundredths-inches">700</Width>
+                </PackageDimensions>
+                <ProductGroup>Book</ProductGroup>
+                <ProductTypeName>ABIS_BOOK</ProductTypeName>
+                <PublicationDate>2007-02-06</PublicationDate>
+                <Publisher>SitePoint</Publisher>
+                <SKU>ACOUK_book_usedlikenew_0975841955</SKU>
+                <Studio>SitePoint</Studio>
+                <Title>Build Your Own Ruby on Rails Web Applications</Title>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>935</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$9.35</FormattedPrice>
+                </LowestNewPrice>
+                <LowestUsedPrice>
+                    <Amount>1</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$0.01</FormattedPrice>
+                </LowestUsedPrice>
+                <TotalNew>11</TotalNew>
+                <TotalUsed>48</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>0</TotalOffers>
+                <TotalOfferPages>0</TotalOfferPages>
+                <MoreOffersUrl>0</MoreOffersUrl>
+            </Offers>
+        </Item>
+    </Items>
+</ItemSearchResponse>

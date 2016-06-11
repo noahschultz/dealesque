@@ -1,0 +1,15 @@
+%li.span3
+  .thumbnail
+    %table.table-condensed
+      %tr
+        %td= image_tag item.images[:thumbnail].try(:url) || image_path("hot_plate.jpg")
+        %td.span2
+          %table.table-condensed
+            %tr
+              %td.span2= link_to item.title, item.url, {target: '_blank', title: "Click to see on Amazon"}
+            %tr
+              %td= "List price: #{item.list_price}"
+    .caption
+      = form_tag pick_item_path, method: :put do
+        = hidden_field_tag :item, ItemRepresenter.new(item).to_json
+        = submit_tag 'Pick', class: "btn btn-info btn-small"

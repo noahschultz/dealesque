@@ -1,0 +1,8 @@
+- content_for :sidebar do
+  = render partial: "sidebar"
+
+= render partial: "search/search_form"
+
+.items
+  - @picked_items.each_with_index do |item, index|
+    = render partial: "item", locals: {item: item, index: index}

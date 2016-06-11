@@ -1,0 +1,11 @@
+.span3
+  .well.sidebar-nav
+    %ul.nav.nav-list
+      %li.nav-header Search Amazon
+
+      %li.divider
+
+      %li.nav-header Hints
+      .muted Enter the search terms like you would on Amazon
+      .muted Hit Pick on the desired item
+      .muted= "Go to #{link_to("picked", picked_path)} items when finished".html_safe

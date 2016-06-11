@@ -1,0 +1,1 @@
+web: bundle exec rails s -p $PORT thin -e $RACK_ENV

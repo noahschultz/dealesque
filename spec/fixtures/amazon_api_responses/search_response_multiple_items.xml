@@ -1,0 +1,1461 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+    <OperationRequest>
+        <HTTPHeaders>
+            <Header Name="UserAgent" Value="Jeff/0.4.3 (Language=Ruby; dojo)"/>
+        </HTTPHeaders>
+        <RequestId>bcafc6b2-ae4e-4509-8fe1-62c27c8d394c</RequestId>
+        <Arguments>
+            <Argument Name="Operation" Value="ItemSearch"/>
+            <Argument Name="Service" Value="AWSECommerceService"/>
+            <Argument Name="Signature" Value="xUH8HHyYV/Cy6K8GM08iT3NREEM8Ur/YS85aesWFfgw="/>
+            <Argument Name="AssociateTag" Value="dealesque-20"/>
+            <Argument Name="Version" Value="2011-08-01"/>
+            <Argument Name="Keywords" Value="Practical Object-Oriented Design in Ruby"/>
+            <Argument Name="SignatureMethod" Value="HmacSHA256"/>
+            <Argument Name="AWSAccessKeyId" Value="AKIAIAPIAMDJ5EGZIPJQ"/>
+            <Argument Name="Timestamp" Value="2012-12-12T18:55:20Z"/>
+            <Argument Name="ResponseGroup" Value="ItemAttributes,Offers,Images"/>
+            <Argument Name="SearchIndex" Value="All"/>
+            <Argument Name="SignatureVersion" Value="2"/>
+        </Arguments>
+        <RequestProcessingTime>0.0812830000000000</RequestProcessingTime>
+    </OperationRequest>
+    <Items>
+        <Request>
+            <IsValid>True</IsValid>
+            <ItemSearchRequest>
+                <Keywords>Practical Object-Oriented Design in Ruby</Keywords>
+                <ResponseGroup>ItemAttributes</ResponseGroup>
+                <ResponseGroup>Offers</ResponseGroup>
+                <ResponseGroup>Images</ResponseGroup>
+                <SearchIndex>All</SearchIndex>
+            </ItemSearchRequest>
+        </Request>
+        <TotalResults>9</TotalResults>
+        <TotalPages>1</TotalPages>
+        <MoreSearchResultsUrl>http://www.amazon.com/gp/redirect.html?camp=2025&amp;creative=386001&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch%3Fkeywords%3DPractical%2BObject-Oriented%2BDesign%2Bin%2BRuby%26url%3Dsearch-alias%253Daws-amazon-aps&amp;linkCode=xm2&amp;tag=dealesque-20&amp;SubscriptionId=AKIAIAPIAMDJ5EGZIPJQ</MoreSearchResultsUrl>
+        <Item>
+            <ASIN>0321721330</ASIN>
+            <DetailPageURL>http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321721330</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/tech-data/0321721330%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0321721330%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0321721330%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0321721330%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/0321721330%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/0321721330%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/0321721330%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">57</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">123</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">383</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">23</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">84</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">123</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">383</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Author>Sandi Metz</Author>
+                <Binding>Paperback</Binding>
+                <EAN>9780321721334</EAN>
+                <EANList>
+                    <EANListElement>9780321721334</EANListElement>
+                </EANList>
+                <Edition>1</Edition>
+                <ISBN>0321721330</ISBN>
+                <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">902</Height>
+                    <Length Units="hundredths-inches">681</Length>
+                    <Weight Units="hundredths-pounds">110</Weight>
+                    <Width Units="hundredths-inches">51</Width>
+                </ItemDimensions>
+                <Label>Addison-Wesley Professional</Label>
+                <Languages>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Unknown</Type>
+                    </Language>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Original Language</Type>
+                    </Language>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Published</Type>
+                    </Language>
+                </Languages>
+                <ListPrice>
+                    <Amount>3999</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$39.99</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Addison-Wesley Professional</Manufacturer>
+                <NumberOfItems>1</NumberOfItems>
+                <NumberOfPages>272</NumberOfPages>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">60</Height>
+                    <Length Units="hundredths-inches">900</Length>
+                    <Weight Units="hundredths-pounds">110</Weight>
+                    <Width Units="hundredths-inches">690</Width>
+                </PackageDimensions>
+                <ProductGroup>Book</ProductGroup>
+                <ProductTypeName>ABIS_BOOK</ProductTypeName>
+                <PublicationDate>2012-09-15</PublicationDate>
+                <Publisher>Addison-Wesley Professional</Publisher>
+                <SKU>732104</SKU>
+                <Studio>Addison-Wesley Professional</Studio>
+                <Title>Practical Object-Oriented Design in Ruby: An Agile Primer (Addison-Wesley Professional Ruby Series)</Title>
+                <TradeInValue>
+                    <Amount>750</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$7.50</FormattedPrice>
+                </TradeInValue>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>2558</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$25.58</FormattedPrice>
+                </LowestNewPrice>
+                <LowestUsedPrice>
+                    <Amount>2645</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$26.45</FormattedPrice>
+                </LowestUsedPrice>
+                <TotalNew>39</TotalNew>
+                <TotalUsed>11</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>http://www.amazon.com/gp/offer-listing/0321721330%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321721330</MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>YU1kzlLmpTnGzXBwiIbo3RnqCNaBMWLT0Xjv8Ho0XuL8pN7Qb%2BFccQHNcrXihce%2Bijmr4k1Yf14OI2IvaAjXKfW4W%2FSGZoYvHdeQ2wJZ1qjfMWMI4GAYZA%3D%3D</OfferListingId>
+                        <Price>
+                            <Amount>2958</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$29.58</FormattedPrice>
+                        </Price>
+                        <AmountSaved>
+                            <Amount>1041</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$10.41</FormattedPrice>
+                        </AmountSaved>
+                        <PercentageSaved>26</PercentageSaved>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B0096BYG7C</ASIN>
+            <DetailPageURL>http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-ebook/dp/B0096BYG7C%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0096BYG7C</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-ebook/dp/tech-data/B0096BYG7C%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0096BYG7C</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB0096BYG7C%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0096BYG7C</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB0096BYG7C%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0096BYG7C</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB0096BYG7C%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0096BYG7C</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/B0096BYG7C%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0096BYG7C</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/B0096BYG7C%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0096BYG7C</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/B0096BYG7C%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0096BYG7C</URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">57</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">123</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">383</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">23</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">84</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">123</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51vkmxCfmRL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">383</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Author>Sandi Metz</Author>
+                <Binding>Kindle Edition</Binding>
+                <Edition>1</Edition>
+                <EISBN>9780132930888</EISBN>
+                <Format>Kindle eBook</Format>
+                <Label>Addison-Wesley Professional</Label>
+                <Languages>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Published</Type>
+                    </Language>
+                </Languages>
+                <Manufacturer>Addison-Wesley Professional</Manufacturer>
+                <NumberOfItems>1</NumberOfItems>
+                <NumberOfPages>263</NumberOfPages>
+                <ProductGroup>eBooks</ProductGroup>
+                <ProductTypeName>ABIS_EBOOKS</ProductTypeName>
+                <PublicationDate>2012-09-05</PublicationDate>
+                <Publisher>Addison-Wesley Professional</Publisher>
+                <ReleaseDate>2012-09-05</ReleaseDate>
+                <Studio>Addison-Wesley Professional</Studio>
+                <Title>Practical Object-Oriented Design in Ruby: An Agile Primer (Addison-Wesley Professional Ruby Series)</Title>
+            </ItemAttributes>
+        </Item>
+        <Item>
+            <ASIN>0321490452</ASIN>
+            <DetailPageURL>http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321490452</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/tech-data/0321490452%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321490452</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0321490452%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321490452</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0321490452%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321490452</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0321490452%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321490452</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/0321490452%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321490452</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/0321490452%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321490452</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/0321490452%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321490452</URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/51kExzC-67L._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">57</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/51kExzC-67L._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">121</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/51kExzC-67L.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">379</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51kExzC-67L._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">23</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51kExzC-67L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51kExzC-67L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51kExzC-67L._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">83</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51kExzC-67L._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">121</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51kExzC-67L.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">379</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Author>Russ Olsen</Author>
+                <Binding>Hardcover</Binding>
+                <EAN>9780321490452</EAN>
+                <EANList>
+                    <EANListElement>9780321490452</EANListElement>
+                </EANList>
+                <Edition>1</Edition>
+                <ISBN>0321490452</ISBN>
+                <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">960</Height>
+                    <Length Units="hundredths-inches">725</Length>
+                    <Weight Units="hundredths-pounds">174</Weight>
+                    <Width Units="hundredths-inches">102</Width>
+                </ItemDimensions>
+                <Label>Addison-Wesley Professional</Label>
+                <Languages>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Unknown</Type>
+                    </Language>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Original Language</Type>
+                    </Language>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Published</Type>
+                    </Language>
+                </Languages>
+                <ListPrice>
+                    <Amount>5499</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$54.99</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Addison-Wesley Professional</Manufacturer>
+                <NumberOfItems>1</NumberOfItems>
+                <NumberOfPages>384</NumberOfPages>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">94</Height>
+                    <Length Units="hundredths-inches">929</Length>
+                    <Weight Units="hundredths-pounds">163</Weight>
+                    <Width Units="hundredths-inches">709</Width>
+                </PackageDimensions>
+                <ProductGroup>Book</ProductGroup>
+                <ProductTypeName>ABIS_BOOK</ProductTypeName>
+                <PublicationDate>2007-12-20</PublicationDate>
+                <Publisher>Addison-Wesley Professional</Publisher>
+                <SKU>5199915</SKU>
+                <Studio>Addison-Wesley Professional</Studio>
+                <Title>Design Patterns in Ruby</Title>
+                <TradeInValue>
+                    <Amount>851</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$8.51</FormattedPrice>
+                </TradeInValue>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>3295</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$32.95</FormattedPrice>
+                </LowestNewPrice>
+                <LowestUsedPrice>
+                    <Amount>2611</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$26.11</FormattedPrice>
+                </LowestUsedPrice>
+                <TotalNew>33</TotalNew>
+                <TotalUsed>37</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>http://www.amazon.com/gp/offer-listing/0321490452%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321490452</MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>qKblrKbCUZQHFz4F5pG3K2Yp%2FmK2wLT6cVKSTG%2FV%2FPZ0kFJLeOLC%2B9m%2B8se0TJQGkkTGpNtSFG7mMBDAnlCK5tgtHpBKLw9z32bHfAo3PlY%3D</OfferListingId>
+                        <Price>
+                            <Amount>3916</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$39.16</FormattedPrice>
+                        </Price>
+                        <AmountSaved>
+                            <Amount>1583</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$15.83</FormattedPrice>
+                        </AmountSaved>
+                        <PercentageSaved>29</PercentageSaved>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B005M4XPOC</ASIN>
+            <DetailPageURL>http://www.amazon.com/Practical-Reporting-Rails-Experts-Source/dp/B005M4XPOC%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB005M4XPOC</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Practical-Reporting-Rails-Experts-Source/dp/tech-data/B005M4XPOC%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005M4XPOC</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB005M4XPOC%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005M4XPOC</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB005M4XPOC%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005M4XPOC</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB005M4XPOC%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005M4XPOC</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/B005M4XPOC%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005M4XPOC</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/B005M4XPOC%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005M4XPOC</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/B005M4XPOC%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005M4XPOC</URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/51-GaXFBMzL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">57</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/51-GaXFBMzL._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">121</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/51-GaXFBMzL.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">378</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51-GaXFBMzL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">23</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51-GaXFBMzL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51-GaXFBMzL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51-GaXFBMzL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">83</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51-GaXFBMzL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">121</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51-GaXFBMzL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">378</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Author>David Berube</Author>
+                <Binding>Paperback</Binding>
+                <Edition>1</Edition>
+                <Format>Bargain Price</Format>
+                <IsAdultProduct>0</IsAdultProduct>
+                <Label>Apress</Label>
+                <Languages>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Published</Type>
+                    </Language>
+                </Languages>
+                <ListPrice>
+                    <Amount>4299</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$42.99</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Apress</Manufacturer>
+                <NumberOfItems>1</NumberOfItems>
+                <NumberOfPages>312</NumberOfPages>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">80</Height>
+                    <Length Units="hundredths-inches">910</Length>
+                    <Weight Units="hundredths-pounds">135</Weight>
+                    <Width Units="hundredths-inches">690</Width>
+                </PackageDimensions>
+                <ProductGroup>Book</ProductGroup>
+                <ProductTypeName>ABIS_BOOK</ProductTypeName>
+                <PublicationDate>2008-02-04</PublicationDate>
+                <Publisher>Apress</Publisher>
+                <ReleaseDate>2010-06-02</ReleaseDate>
+                <SKU>6344284</SKU>
+                <Studio>Apress</Studio>
+                <Title>Practical Reporting with Ruby and Rails (Expert's Voice in Open Source)</Title>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>452</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$4.52</FormattedPrice>
+                </LowestNewPrice>
+                <LowestUsedPrice>
+                    <Amount>234</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$2.34</FormattedPrice>
+                </LowestUsedPrice>
+                <TotalNew>6</TotalNew>
+                <TotalUsed>13</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>http://www.amazon.com/gp/offer-listing/B005M4XPOC%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005M4XPOC</MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>UDdgVE1ry97FHoBbp0xonqUUNIp6ZTUXN2LAs%2Bj66uUu3ibgGd4nMPxW7%2FbuqqA1QicFG7kg7PRP5s17GehExQ7cbXtiWrn2sJ%2BBzOmyoiAICUpFpINp5Q%3D%3D</OfferListingId>
+                        <Price>
+                            <Amount>1629</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$16.29</FormattedPrice>
+                        </Price>
+                        <AmountSaved>
+                            <Amount>2670</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$26.70</FormattedPrice>
+                        </AmountSaved>
+                        <PercentageSaved>62</PercentageSaved>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>0672328844</ASIN>
+            <DetailPageURL>http://www.amazon.com/The-Ruby-Way-Second-Edition/dp/0672328844%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0672328844</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/The-Ruby-Way-Second-Edition/dp/tech-data/0672328844%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0672328844</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0672328844%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0672328844</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0672328844%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0672328844</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0672328844%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0672328844</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/0672328844%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0672328844</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/0672328844%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0672328844</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/0672328844%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0672328844</URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/41PFKj3XHLL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">57</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/41PFKj3XHLL._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">121</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/41PFKj3XHLL.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">377</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41PFKj3XHLL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">23</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41PFKj3XHLL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41PFKj3XHLL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41PFKj3XHLL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">83</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41PFKj3XHLL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">121</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41PFKj3XHLL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">377</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Author>Hal Fulton</Author>
+                <Binding>Paperback</Binding>
+                <EAN>9780672328848</EAN>
+                <EANList>
+                    <EANListElement>9780672328848</EANListElement>
+                </EANList>
+                <Edition>2</Edition>
+                <ISBN>0672328844</ISBN>
+                <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">906</Height>
+                    <Length Units="hundredths-inches">701</Length>
+                    <Weight Units="hundredths-pounds">295</Weight>
+                    <Width Units="hundredths-inches">197</Width>
+                </ItemDimensions>
+                <Label>Addison-Wesley Professional</Label>
+                <Languages>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Unknown</Type>
+                    </Language>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Original Language</Type>
+                    </Language>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Published</Type>
+                    </Language>
+                </Languages>
+                <ListPrice>
+                    <Amount>4999</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$49.99</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Addison-Wesley Professional</Manufacturer>
+                <MPN>9780672328848</MPN>
+                <NumberOfItems>1</NumberOfItems>
+                <NumberOfPages>888</NumberOfPages>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">190</Height>
+                    <Length Units="hundredths-inches">910</Length>
+                    <Weight Units="hundredths-pounds">270</Weight>
+                    <Width Units="hundredths-inches">710</Width>
+                </PackageDimensions>
+                <PartNumber>9780672328848</PartNumber>
+                <ProductGroup>Book</ProductGroup>
+                <ProductTypeName>ABIS_BOOK</ProductTypeName>
+                <PublicationDate>2006-11-04</PublicationDate>
+                <Publisher>Addison-Wesley Professional</Publisher>
+                <SKU>VI-0672328844</SKU>
+                <Studio>Addison-Wesley Professional</Studio>
+                <Title>The Ruby Way, Second Edition: Solutions and Techniques in Ruby Programming (2nd Edition)</Title>
+                <TradeInValue>
+                    <Amount>144</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$1.44</FormattedPrice>
+                </TradeInValue>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>2000</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$20.00</FormattedPrice>
+                </LowestNewPrice>
+                <LowestUsedPrice>
+                    <Amount>720</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$7.20</FormattedPrice>
+                </LowestUsedPrice>
+                <TotalNew>44</TotalNew>
+                <TotalUsed>42</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>http://www.amazon.com/gp/offer-listing/0672328844%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0672328844</MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>irUxdW%2BQ8vHUcTbns%2BrC%2BRb45I%2Bvc4pAdXzYKiPgFev%2BsYqMQPjv8A47uFFITT5Pp%2B4vY9wSJh%2Fzn8V2bQo%2BbI75aTbZR8iBdxYthLwuJibRdTUzDDAK4g%3D%3D</OfferListingId>
+                        <Price>
+                            <Amount>3086</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$30.86</FormattedPrice>
+                        </Price>
+                        <AmountSaved>
+                            <Amount>1913</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$19.13</FormattedPrice>
+                        </AmountSaved>
+                        <PercentageSaved>38</PercentageSaved>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B0011UJMSO</ASIN>
+            <DetailPageURL>http://www.amazon.com/Practical-Reporting-Experts-Source-ebook/dp/B0011UJMSO%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0011UJMSO</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Practical-Reporting-Experts-Source-ebook/dp/tech-data/B0011UJMSO%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0011UJMSO</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB0011UJMSO%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0011UJMSO</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB0011UJMSO%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0011UJMSO</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB0011UJMSO%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0011UJMSO</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/B0011UJMSO%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0011UJMSO</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/B0011UJMSO%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0011UJMSO</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/B0011UJMSO%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0011UJMSO</URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">57</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">121</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">378</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">23</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">83</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">121</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">378</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Author>David Berube</Author>
+                <Binding>Kindle Edition</Binding>
+                <Edition>1</Edition>
+                <EISBN>9781590599334</EISBN>
+                <Format>Kindle eBook</Format>
+                <IsAdultProduct>0</IsAdultProduct>
+                <Label>Apress</Label>
+                <Languages>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Published</Type>
+                    </Language>
+                </Languages>
+                <ListPrice>
+                    <Amount>4299</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$42.99</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Apress</Manufacturer>
+                <NumberOfItems>1</NumberOfItems>
+                <NumberOfPages>312</NumberOfPages>
+                <ProductGroup>eBooks</ProductGroup>
+                <ProductTypeName>ABIS_EBOOKS</ProductTypeName>
+                <PublicationDate>2008-01-28</PublicationDate>
+                <Publisher>Apress</Publisher>
+                <ReleaseDate>2008-01-28</ReleaseDate>
+                <Studio>Apress</Studio>
+                <Title>Practical Reporting with Ruby and Rails (Expert's Voice in Open Source)</Title>
+            </ItemAttributes>
+        </Item>
+        <Item>
+            <ASIN>0975841955</ASIN>
+            <DetailPageURL>http://www.amazon.com/Build-Your-Ruby-Rails-Applications/dp/0975841955%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0975841955</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Build-Your-Ruby-Rails-Applications/dp/tech-data/0975841955%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0975841955</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0975841955%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0975841955</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0975841955%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0975841955</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0975841955%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0975841955</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/0975841955%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0975841955</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/0975841955%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0975841955</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/0975841955%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0975841955</URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">57</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">121</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">377</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">23</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">83</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">121</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/51QRVmc5-9L.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">377</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Author>Patrick Lenz</Author>
+                <Binding>Paperback</Binding>
+                <EAN>9780975841952</EAN>
+                <EANList>
+                    <EANListElement>9780975841952</EANListElement>
+                </EANList>
+                <Edition>1</Edition>
+                <ISBN>0975841955</ISBN>
+                <Label>SitePoint</Label>
+                <Languages>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Unknown</Type>
+                    </Language>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Original Language</Type>
+                    </Language>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Published</Type>
+                    </Language>
+                </Languages>
+                <ListPrice>
+                    <Amount>3995</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$39.95</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>SitePoint</Manufacturer>
+                <NumberOfItems>1</NumberOfItems>
+                <NumberOfPages>447</NumberOfPages>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">110</Height>
+                    <Length Units="hundredths-inches">900</Length>
+                    <Weight Units="hundredths-pounds">150</Weight>
+                    <Width Units="hundredths-inches">700</Width>
+                </PackageDimensions>
+                <ProductGroup>Book</ProductGroup>
+                <ProductTypeName>ABIS_BOOK</ProductTypeName>
+                <PublicationDate>2007-02-06</PublicationDate>
+                <Publisher>SitePoint</Publisher>
+                <SKU>ACOUK_book_usedlikenew_0975841955</SKU>
+                <Studio>SitePoint</Studio>
+                <Title>Build Your Own Ruby on Rails Web Applications</Title>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>935</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$9.35</FormattedPrice>
+                </LowestNewPrice>
+                <LowestUsedPrice>
+                    <Amount>1</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$0.01</FormattedPrice>
+                </LowestUsedPrice>
+                <TotalNew>11</TotalNew>
+                <TotalUsed>48</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>0</TotalOffers>
+                <TotalOfferPages>0</TotalOfferPages>
+                <MoreOffersUrl>0</MoreOffersUrl>
+            </Offers>
+        </Item>
+        <Item>
+            <ASIN>B00ACC5CQS</ASIN>
+            <DetailPageURL>http://www.amazon.com/Practical-Reporting-Experts-Source-ebook/dp/B00ACC5CQS%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00ACC5CQS</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Practical-Reporting-Experts-Source-ebook/dp/tech-data/B00ACC5CQS%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ACC5CQS</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00ACC5CQS%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ACC5CQS</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00ACC5CQS%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ACC5CQS</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00ACC5CQS%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ACC5CQS</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/B00ACC5CQS%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ACC5CQS</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/B00ACC5CQS%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ACC5CQS</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/B00ACC5CQS%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00ACC5CQS</URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">57</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">121</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">378</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">23</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">83</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">121</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/516fKMSfWvL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">378</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Author>David Berube</Author>
+                <Binding>Kindle Edition</Binding>
+                <Edition>1</Edition>
+                <EISBN>9781430205326</EISBN>
+                <Label>Apress</Label>
+                <Languages>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Published</Type>
+                    </Language>
+                </Languages>
+                <Manufacturer>Apress</Manufacturer>
+                <NumberOfItems>1</NumberOfItems>
+                <NumberOfPages>312</NumberOfPages>
+                <ProductGroup>eBooks</ProductGroup>
+                <ProductTypeName>ABIS_EBOOKS</ProductTypeName>
+                <PublicationDate>2008-02-04</PublicationDate>
+                <Publisher>Apress</Publisher>
+                <ReleaseDate>2008-02-04</ReleaseDate>
+                <Studio>Apress</Studio>
+                <Title>Practical Reporting with Ruby and Rails (Expert's Voice in Open Source)</Title>
+            </ItemAttributes>
+        </Item>
+        <Item>
+            <ASIN>0321584104</ASIN>
+            <DetailPageURL>http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321584104</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/tech-data/0321584104%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0321584104%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0321584104%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0321584104%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/0321584104%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/0321584104%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/0321584104%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</URL>
+                </ItemLink>
+            </ItemLinks>
+            <SmallImage>
+                <URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">57</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">122</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">381</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">23</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">84</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">122</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/41IDuwJXFCL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">381</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>http://ecx.images-amazon.com/images/I/5121G7ndoNL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">23</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>http://ecx.images-amazon.com/images/I/5121G7ndoNL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>http://ecx.images-amazon.com/images/I/5121G7ndoNL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">57</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>http://ecx.images-amazon.com/images/I/5121G7ndoNL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">84</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>http://ecx.images-amazon.com/images/I/5121G7ndoNL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">122</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>http://ecx.images-amazon.com/images/I/5121G7ndoNL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">381</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Author>Russ Olsen</Author>
+                <Binding>Paperback</Binding>
+                <EAN>9780321584106</EAN>
+                <EANList>
+                    <EANListElement>9780321584106</EANListElement>
+                </EANList>
+                <Edition>1</Edition>
+                <ISBN>0321584104</ISBN>
+                <ItemDimensions>
+                    <Height Units="hundredths-inches">890</Height>
+                    <Length Units="hundredths-inches">736</Length>
+                    <Weight Units="hundredths-pounds">152</Weight>
+                    <Width Units="hundredths-inches">94</Width>
+                </ItemDimensions>
+                <Label>Addison-Wesley Professional</Label>
+                <Languages>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Unknown</Type>
+                    </Language>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Original Language</Type>
+                    </Language>
+                    <Language>
+                        <Name>English</Name>
+                        <Type>Published</Type>
+                    </Language>
+                </Languages>
+                <ListPrice>
+                    <Amount>4499</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$44.99</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Addison-Wesley Professional</Manufacturer>
+                <NumberOfItems>1</NumberOfItems>
+                <NumberOfPages>448</NumberOfPages>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">94</Height>
+                    <Length Units="hundredths-inches">906</Length>
+                    <Weight Units="hundredths-pounds">154</Weight>
+                    <Width Units="hundredths-inches">693</Width>
+                </PackageDimensions>
+                <ProductGroup>Book</ProductGroup>
+                <ProductTypeName>ABIS_BOOK</ProductTypeName>
+                <PublicationDate>2011-02-21</PublicationDate>
+                <Publisher>Addison-Wesley Professional</Publisher>
+                <SKU>0321584104</SKU>
+                <Studio>Addison-Wesley Professional</Studio>
+                <Title>Eloquent Ruby (Addison-Wesley Professional Ruby Series)</Title>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>2872</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$28.72</FormattedPrice>
+                </LowestNewPrice>
+                <LowestUsedPrice>
+                    <Amount>2899</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$28.99</FormattedPrice>
+                </LowestUsedPrice>
+                <TotalNew>49</TotalNew>
+                <TotalUsed>20</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>http://www.amazon.com/gp/offer-listing/0321584104%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0321584104</MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>T1CrkRE5gz3hOGhzif8IC7Jcz7Oy9RkokvefOm1ErqbFTBd2iUhJBeWArJbiIvc3f10CmOsOyW2G2iVe881s4YWUqXmVGdJQKJFX3ctD%2Ftqm2QKqBZen9w%3D%3D</OfferListingId>
+                        <Price>
+                            <Amount>3084</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$30.84</FormattedPrice>
+                        </Price>
+                        <AmountSaved>
+                            <Amount>1415</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$14.15</FormattedPrice>
+                        </AmountSaved>
+                        <PercentageSaved>31</PercentageSaved>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+    </Items>
+</ItemSearchResponse>

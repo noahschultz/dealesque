@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+    <OperationRequest>
+        <HTTPHeaders>
+            <Header Name="UserAgent" Value="Jeff/0.4.3 (Language=Ruby; dojo)"/>
+        </HTTPHeaders>
+        <RequestId>052766cd-456a-4513-8b66-0f5ea3252171</RequestId>
+        <Arguments>
+            <Argument Name="Condition" Value="All"/>
+            <Argument Name="Operation" Value="ItemSearch"/>
+            <Argument Name="Service" Value="AWSECommerceService"/>
+            <Argument Name="Signature" Value="sHm7blDS+NvAxIkdnLvvSOwldSiJ5LZgTOdADaP6ijo="/>
+            <Argument Name="AssociateTag" Value="dealesque-20"/>
+            <Argument Name="Version" Value="2011-08-01"/>
+            <Argument Name="Keywords" Value="A Chance for Every Child A History of the El Paso Center for Children"/>
+            <Argument Name="AWSAccessKeyId" Value="AKIAIAPIAMDJ5EGZIPJQ"/>
+            <Argument Name="Timestamp" Value="2013-01-11T07:36:30.000Z"/>
+            <Argument Name="ResponseGroup" Value="Images,ItemAttributes,Offers"/>
+            <Argument Name="SearchIndex" Value="All"/>
+        </Arguments>
+        <RequestProcessingTime>0.1928440000000000</RequestProcessingTime>
+    </OperationRequest>
+    <Items>
+        <Request>
+            <IsValid>True</IsValid>
+            <ItemSearchRequest>
+                <Condition>All</Condition>
+                <Keywords>A Chance for Every Child A History of the El Paso Center for Children</Keywords>
+                <ResponseGroup>Images</ResponseGroup>
+                <ResponseGroup>ItemAttributes</ResponseGroup>
+                <ResponseGroup>Offers</ResponseGroup>
+                <SearchIndex>All</SearchIndex>
+            </ItemSearchRequest>
+        </Request>
+        <TotalResults>1</TotalResults>
+        <TotalPages>1</TotalPages>
+        <MoreSearchResultsUrl>http://www.amazon.com/gp/redirect.html?camp=2025&creative=386001&location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch%3Fkeywords%3DA%2BChance%2Bfor%2BEvery%2BChild%2BA%2BHistory%2Bof%2Bthe%2BEl%2BPaso%2BCenter%2Bfor%2BChildren%26url%3Dsearch-alias%253Daws-amazon-aps&linkCode=xm2&tag=dealesque-20&SubscriptionId=AKIAIAPIAMDJ5EGZIPJQ</MoreSearchResultsUrl>
+        <Item>
+            <ASIN>0974982326</ASIN>
+            <DetailPageURL>http://www.amazon.com/Chance-Every-Child-History-Children/dp/0974982326%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0974982326</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>http://www.amazon.com/Chance-Every-Child-History-Children/dp/tech-data/0974982326%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0974982326</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3D0974982326%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0974982326</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3D0974982326%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0974982326</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3D0974982326%26SubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0974982326</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>http://www.amazon.com/gp/pdp/taf/0974982326%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0974982326</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>http://www.amazon.com/review/product/0974982326%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0974982326</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>http://www.amazon.com/gp/offer-listing/0974982326%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0974982326</URL>
+                </ItemLink>
+            </ItemLinks>
+            <ItemAttributes>
+                <Author>Donna G. Munch</Author>
+                <Author>Shirley Clement Fouts</Author>
+                <Author>Sandy Rioux</Author>
+                <Binding>Paperback</Binding>
+                <Creator Role="Introduction">Leon Claire Metz</Creator>
+                <EAN>9780974982328</EAN>
+                <EANList>
+                    <EANListElement>9780974982328</EANListElement>
+                </EANList>
+                <ISBN>0974982326</ISBN>
+                <Label>Trego-Hill Publications</Label>
+                <Manufacturer>Trego-Hill Publications</Manufacturer>
+                <NumberOfPages>267</NumberOfPages>
+                <ProductGroup>Book</ProductGroup>
+                <ProductTypeName>BOOKS_1973_AND_LATER</ProductTypeName>
+                <PublicationDate>2009</PublicationDate>
+                <Publisher>Trego-Hill Publications</Publisher>
+                <Studio>Trego-Hill Publications</Studio>
+                <Title>A Chance for Every Child: A History of the El Paso Center for Children</Title>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestUsedPrice>
+                    <Amount>5900</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$59.00</FormattedPrice>
+                </LowestUsedPrice>
+                <TotalNew>0</TotalNew>
+                <TotalUsed>2</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>
+                    http://www.amazon.com/gp/offer-listing/0974982326%3FSubscriptionId%3DAKIAIAPIAMDJ5EGZIPJQ%26tag%3Ddealesque-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3D0974982326
+                </MoreOffersUrl>
+                <Offer>
+                    <OfferAttributes>
+                        <Condition>Used</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>
+                            W9QBRh1AsiVmbV%2BbSzC96iNGRrhJUf6qdMy0x2oA8LaYaSdA049Xxp4GbbvSlRd1ZZ30DWDOSqNx9HU8BQ57H759OYYlh2grdqssiAaXLOuIB5NvNwv5ZGQQ1Mx1LWK863JM2QmP6rPN98bLhPHyUg%3D%3D
+                        </OfferListingId>
+                        <Price>
+                            <Amount>5900</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$59.00</FormattedPrice>
+                        </Price>
+                        <Availability>Usually ships in 1-2 business days</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>24</MinimumHours>
+                            <MaximumHours>48</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+        </Item>
+    </Items>
+</ItemSearchResponse>

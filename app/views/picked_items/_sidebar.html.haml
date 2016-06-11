@@ -1,0 +1,13 @@
+.span3
+  .well.sidebar-nav
+    %ul.nav.nav-list
+      %li.nav-header Picked Items
+      %li= link_to "Unpick all", clear_picked_path, {:method => :delete, confirm: 'Do you really want to remove all currently picked items?'}
+      %li= link_to "Checkout", create_cart_path
+
+      %li.divider
+
+      %li.nav-header Hints
+      .muted= "Unpick unwanted items or #{link_to("unpick all", clear_picked_path, {:method => :delete, confirm: 'Do you really want to remove all currently picked items?'})} and start over".html_safe
+      .muted= "Head back to #{link_to("search", search_path)} and add some more items".html_safe
+      .muted= "#{link_to("Proceed", create_cart_path)} to Amazon when finished".html_safe

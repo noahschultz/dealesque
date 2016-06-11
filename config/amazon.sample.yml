@@ -1,0 +1,14 @@
+development:
+  key:    
+  secret: 
+  tag:    
+
+test:
+  key:    
+  secret: 
+  tag:    
+
+production:
+  key:    
+  secret: 
+  tag:    
